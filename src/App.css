@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+  background-color: #444;
+  color: white;
+  padding-left: 1em;
+  font-family: Ubuntu;
+}
+
+.folder {
+}
+
+h1 {
+  user-select: none;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.children {
+  padding-left: 1em;
+  border-left: 1px solid white;
+}
+
+.entry {
+  bottom: 1px solid white;
+  border-radius: 10px;
+  padding: 1em;
+  margin-bottom: 0.5em;
+  display: flex;
+  background-color: #222;
+}
+
+.entry .name {
+  padding-right: 0.5em;
+  margin-right: 0.5em;
+  border-right: 1px solid white;
+}
+
+.entry div {
+  display: inline;
+  white-space: pre;
+}
+
+.func {
+  margin-left: 5px;
+  margin-right: 5px;
+  background: #356;
+  padding: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  line-height: 1.5;
+  border-radius: 5px;
+}
