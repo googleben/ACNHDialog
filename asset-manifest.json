@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ACNHDialog/static/css/main.74ea9044.chunk.css",
+    "main.js": "/ACNHDialog/static/js/main.577c4e38.chunk.js",
+    "main.js.map": "/ACNHDialog/static/js/main.577c4e38.chunk.js.map",
+    "runtime-main.js": "/ACNHDialog/static/js/runtime-main.f1364ee6.js",
+    "runtime-main.js.map": "/ACNHDialog/static/js/runtime-main.f1364ee6.js.map",
+    "static/js/2.b548d4ab.chunk.js": "/ACNHDialog/static/js/2.b548d4ab.chunk.js",
+    "static/js/2.b548d4ab.chunk.js.map": "/ACNHDialog/static/js/2.b548d4ab.chunk.js.map",
+    "index.html": "/ACNHDialog/index.html",
+    "precache-manifest.6ea4ca3736566ff50e1f4c14b2bf7890.js": "/ACNHDialog/precache-manifest.6ea4ca3736566ff50e1f4c14b2bf7890.js",
+    "service-worker.js": "/ACNHDialog/service-worker.js",
+    "static/css/main.74ea9044.chunk.css.map": "/ACNHDialog/static/css/main.74ea9044.chunk.css.map",
+    "static/js/2.b548d4ab.chunk.js.LICENSE.txt": "/ACNHDialog/static/js/2.b548d4ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1364ee6.js",
+    "static/js/2.b548d4ab.chunk.js",
+    "static/css/main.74ea9044.chunk.css",
+    "static/js/main.577c4e38.chunk.js"
+  ]
+}
