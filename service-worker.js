@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ACNHDialog/precache-manifest.6ea4ca3736566ff50e1f4c14b2bf7890.js"
+  "/ACNHDialog/precache-manifest.702067b8149ef47d60b322c2f25e78ee.js"
 );
 
 self.addEventListener('message', (event) => {
